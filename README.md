@@ -1,8 +1,8 @@
 Instructions: 
 If run from your own computer, open the folder and enter the following into the terminal
-$ npm express
-$ npm axios
-$ npm body-parser
+$ npm install express
+$ npm install axios
+$ npm install body-parser
 $ node index.js
 and go to http://localhost/5000/articles/"subreddit" (where "subreddit" is the chosen subreddit)
 
